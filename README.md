@@ -1,5 +1,5 @@
 Cách clone code:
-B1: Nhấn vào nút code màu xanh
+B1: Nhấn vào nút code màu xanh, tại mục HTTPS chọn " copy url to clipboard"
 B2: tải VScode
 B3: vô mục Extensions ở thanh công cụ bên trái, tìm kiếm Live server
 B4: vô link https://desktop.github.com/download/ để tải github
